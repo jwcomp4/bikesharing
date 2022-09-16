@@ -13,7 +13,7 @@
     6. Gender use of Citi Bike.
 
 - To view the Tableau Story use the following link:
-    - [Bike Sharing Tableau Story](https://public.tableau.com/shared/4FM29YPKZ?:display_count=n&:origin=viz_share_link)
+    - [Bike Sharing Tableau Story](https://public.tableau.com/app/profile/john.compton/viz/NYCBikeSharing_16631761573940/BikeSharingStory?publish=yes)
 
 ## Results
 
